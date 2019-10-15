@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  CalculatorLogic.cpp
+CalculatorLogic.cpp(179): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CalculatorLogic.vcxproj -> F:\#Work\Uni\Programming Assignment 2\Calculator v4\Release\CalculatorLogic.lib
