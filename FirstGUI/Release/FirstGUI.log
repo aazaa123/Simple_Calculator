@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  CalculatorLogic.lib(CalculatorLogic.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+  Generating code
+  Finished generating code
+  FirstGUI.vcxproj -> F:\#Work\Uni\Programming Assignment 2\Calculator v4\Release\FirstGUI.exe
+  FirstGUI.vcxproj -> F:\#Work\Uni\Programming Assignment 2\Calculator v4\Release\FirstGUI.pdb (Full PDB)
